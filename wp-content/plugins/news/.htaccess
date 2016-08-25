@@ -1,0 +1,7 @@
+RewriteEngine on
+RewriteRule ^category/(.*)/(.*)$ category.php?id=$1&slug=$2
+RewriteRule ^source/(.*)/(.*)$ source.php?id=$1&slug=$2
+RewriteRule ^news/(.*)/(.*)$ news.php?id=$1&slug=$2
+RewriteRule ^page/(.*)/(.*)$ page.php?id=$1&slug=$2
+RewriteRule ^search/(.*)$ search.php?q=$1
+RewriteRule ^not-found$ notfound.php

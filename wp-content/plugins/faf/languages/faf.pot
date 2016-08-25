@@ -1,0 +1,345 @@
+# Copyright (C) 2013 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/faf\n"
+"POT-Creation-Date: 2014-12-07 09:51+0300\n"
+"PO-Revision-Date: 2014-12-07 09:52+0300\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../faf_admin.php:19
+msgid "Filter processing settings"
+msgstr ""
+
+#: ../faf_admin.php:25
+msgid "Only excute filters for all feeds (ignore per feed settings)"
+msgstr ""
+
+#: ../faf_admin.php:26
+msgid "Only execute filters per feed (ignore filters for all feeds) "
+msgstr ""
+
+#: ../faf_admin.php:27
+msgid "Execute filters for all feeds first"
+msgstr ""
+
+#: ../faf_admin.php:28
+msgid "Execute per feed filters first"
+msgstr ""
+
+#: ../faf_admin.php:46
+msgid "Use the site-wide setting"
+msgstr ""
+
+#: ../faf_admin.php:47
+msgid "Currently:"
+msgstr ""
+
+#: ../faf_admin.php:47
+msgid "change"
+msgstr ""
+
+#: ../faf_admin.php:75
+msgid ""
+"You can pick any number of Filters. The meaning of the values of every "
+"filter can differ. Some have extra options as well"
+msgstr ""
+
+#: ../faf_admin.php:77
+msgid "Please remember to click the Save button after making changes!"
+msgstr ""
+
+#: ../faf_admin.php:78
+msgid "Some fields are required. Please fill them out first!"
+msgstr ""
+
+#: ../faf_admin.php:126
+msgid "Error"
+msgstr ""
+
+#: ../faf_admin.php:130
+msgid "New Filter"
+msgstr ""
+
+#: ../faf_admin.php:132
+msgid "Add Filter"
+msgstr ""
+
+#: ../faf_admin.php:139 ../feedwordpress_advanced_filters.php:220
+msgid "Feedwordpress Advanced Filters"
+msgstr ""
+
+#: ../faf_admin.php:139
+msgid "version"
+msgstr ""
+
+#: ../faf_admin.php:139
+msgid "by"
+msgstr ""
+
+#: ../advanced_filters_overview.php:32
+msgid "Feedwordpress Advanced Filters Overview"
+msgstr ""
+
+#: ../advanced_filters_overview.php:34
+msgid ""
+"This page will display the filters from all feeds in the order they will be "
+"executed on the posts"
+msgstr ""
+
+#: ../filters.php:44
+msgid "Value"
+msgstr ""
+
+#: ../filters.php:49
+msgid "Search in Title"
+msgstr ""
+
+#: ../filters.php:53
+msgid "Search in Excerpt"
+msgstr ""
+
+#: ../filters.php:57
+msgid "Search in Content"
+msgstr ""
+
+#: ../filters.php:62
+msgid "Only match entire word"
+msgstr ""
+
+#: ../filters.php:66
+msgid "Only match case"
+msgstr ""
+
+#: ../feedwordpress_advanced_filters.php:868
+msgid ""
+"Feedwordpress plugin is required for Feedwordpress Advanced Filters to work!"
+msgstr ""
+
+#: ../filters/remove_keywords.php:14
+msgid ""
+"This filter will remove certain keywords in the text. For instance if you "
+"are aggrating a \n"
+"\t\tnewspaper which always starts with a location 'New York-' which is not "
+"relevant, you can choose to remove this. \n"
+"\t\tYou can add multiple keywords comma-seperated. \n"
+"\t\t"
+msgstr ""
+
+#: ../filters/remove_keywords.php:24
+msgid "Remove keywords from post"
+msgstr ""
+
+#: ../filters/remove_keywords.php:92
+msgid "Keywords:"
+msgstr ""
+
+#: ../filters/link_filter.php:20
+msgid ""
+"Formats incoming links to your preferences. If you want to remove links you "
+"can use the 'remove HTML from post' filter"
+msgstr ""
+
+#: ../filters/link_filter.php:26
+msgid "Link filter"
+msgstr ""
+
+#: ../filters/link_filter.php:37
+msgid "Open links in new window"
+msgstr ""
+
+#: ../filters/link_filter.php:42
+msgid "Run filter through click tracker (URL of tracker)"
+msgstr ""
+
+#: ../filters/expire_post.php:16
+msgid ""
+"This filter allows you to expire posts after a certain time. You can either "
+"set to use the date of aggregation or the \n"
+"\t\t\t  date the post has in the feed."
+msgstr ""
+
+#: ../filters/expire_post.php:20
+msgid ""
+"Warning: if you delete posts on expiration date and they are still exist in "
+"the feed they will be resyndicated"
+msgstr ""
+
+#: ../filters/expire_post.php:28
+msgid "Expire posts"
+msgstr ""
+
+#: ../filters/expire_post.php:118
+msgid ""
+"This filter needs <a href='http://wordpress.org/extend/plugins/post-"
+"expirator/' target='_blank'>\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t \t\t\tPost expirator</a> plugin to function"
+msgstr ""
+
+#: ../filters/expire_post.php:126
+msgid "Set expire-time:"
+msgstr ""
+
+#: ../filters/expire_post.php:129
+msgid "From post date"
+msgstr ""
+
+#: ../filters/expire_post.php:129
+msgid "From feed update"
+msgstr ""
+
+#: ../filters/expire_post.php:133
+msgid "Time"
+msgstr ""
+
+#: ../filters/expire_post.php:138
+msgid "How to expire"
+msgstr ""
+
+#: ../filters/expire_post.php:184
+msgid "hour(s)"
+msgstr ""
+
+#: ../filters/expire_post.php:185
+msgid "day(s)"
+msgstr ""
+
+#: ../filters/expire_post.php:186
+msgid "week(s)"
+msgstr ""
+
+#: ../filters/expire_post.php:187
+msgid "month(s)"
+msgstr ""
+
+#: ../filters/expire_post.php:188
+msgid "year(s)"
+msgstr ""
+
+#: ../filters/image_filters.php:17
+msgid ""
+"Filter for manipulation of images in your feed. You can remove images from "
+"the excerpt or resize\n"
+"\t\t \t\t\tthem using the standard WordPress sizes. "
+msgstr ""
+
+#: ../filters/image_filters.php:21
+msgid ""
+"Save images locally: will save the feed image to your local wordpress "
+"installation instead \n"
+"\t\t \t\t   of leaving it on the remote host"
+msgstr ""
+
+#: ../filters/image_filters.php:26
+msgid ""
+"Images to process: in case you have multiple images you can select which "
+"ones to process, \n"
+"\t\t \t\t   i.e '1,2,3,4'. This works together with 'remove unselected "
+"images'. Every image not processing \n"
+"\t\t \t\t   will be dropped. Leave empty if all images should be processed "
+"or you have a feed with only one image"
+msgstr ""
+
+#: ../filters/image_filters.php:32
+msgid ""
+" Set featured: Will set an image as 'featured image' in the Wordpress post "
+"and remove it from your content"
+msgstr ""
+
+#: ../filters/image_filters.php:41
+msgid "Image filters"
+msgstr ""
+
+#: ../filters/image_filters.php:83
+msgid "Save images locally"
+msgstr ""
+
+#: ../filters/image_filters.php:88
+msgid "Remove images from excerpt"
+msgstr ""
+
+#: ../filters/image_filters.php:93
+msgid "Resize image to"
+msgstr ""
+
+#: ../filters/image_filters.php:98
+msgid "Images to process"
+msgstr ""
+
+#: ../filters/image_filters.php:102
+msgid "Remove unselected images"
+msgstr ""
+
+#: ../filters/image_filters.php:106
+msgid "Set featured image"
+msgstr ""
+
+#: ../filters/image_filters.php:177
+msgid "Do not Resize"
+msgstr ""
+
+#: ../filters/remove_html.php:15
+msgid ""
+"Will remove HTML from post, title and excerpt. You can choose to keep "
+"certain families of tags."
+msgstr ""
+
+#: ../filters/remove_html.php:18
+msgid "Keep HTML styles will not remove markup like strong, em, h1,h2 etc"
+msgstr ""
+
+#: ../filters/remove_html.php:21
+msgid ""
+"Custom tags: you can type the name of the tags you like preserved ( e.g. "
+"div ). You can enter multiple keywords comma-seperated\n"
+"\t\t"
+msgstr ""
+
+#: ../filters/remove_html.php:29
+msgid "Remove HTML from post"
+msgstr ""
+
+#: ../filters/remove_html.php:128
+msgid "Keep HTML-Styles and Headings"
+msgstr ""
+
+#: ../filters/remove_html.php:132
+msgid "Keep Images"
+msgstr ""
+
+#: ../filters/remove_html.php:136
+msgid "Keep Links"
+msgstr ""
+
+#: ../filters/remove_html.php:140
+msgid "Keep custom tags:"
+msgstr ""
+
+#: ../filters/categories_keyword.php:15
+msgid ""
+"Specify keyword(s) and categories. If the keyword matches this post will "
+"additionally added to your selected categories\n"
+"\t\t You can use multiple keywords by entering them comma-seperated \n"
+"\t\t"
+msgstr ""
+
+#: ../filters/categories_keyword.php:24
+msgid "Add post to category when keywords match"
+msgstr ""
+
+#: ../filters/categories_keyword.php:108
+msgid "Keyword"
+msgstr ""
+
+#: ../filters/categories_keyword.php:111 ../filters/categories_keyword.php:134
+msgid "Categories"
+msgstr ""

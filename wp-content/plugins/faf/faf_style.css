@@ -1,0 +1,149 @@
+.fafCatBox {
+ height: 150px;
+ overflow: auto;
+ border: 1px solid #ccc;
+ margin-left: 5px; 
+ margin-bottom: 5px;
+ width: 80%;
+}
+
+.faf_globalFilterBox {
+  float:left;
+  width: 100%;
+  margin-left: 2.5rem;
+}
+
+.faf_globalFilterBox .global-options
+{
+ background: #CCFFCC;
+ float: left; 
+ margin-right: 15px;
+ padding: 10px;
+}
+
+.faf_globalFilterBox .local-options {
+ float: left;
+ padding-left: 10px; 
+}
+
+.faf_globalFilterBox p {
+ font-weight: bold; 
+ float:left; 
+ display: inline;
+ margin-right: 15px;
+}
+
+
+.faf_filterBox label {
+  margin-right:15px; 
+  padding: 10px; 
+} 
+
+
+.faf_filterBox .delete_filter{
+ font-size: 1.2rem; 
+ font-size: 20px;
+ font-weight: bold; 
+ color: #ff0000;
+ float:right; 
+ vertical-align: bottom;
+} 
+
+.faf_filterBox h4 {
+ font-weight: bold; 
+ background-color: #CCFFCC;
+margin-top:0;
+ font-size:0.9rem;
+ padding:4px;
+ border-bottom: 1px solid #ccc;
+ 
+}
+ 
+.faf_filterBox {
+ width: 30%;
+ border: 1px solid #ccc;
+ vertical-align: top;
+ display: inline-block;
+ margin-right:1px;
+ margin-bottom: 5px;
+ min-height: 200px;
+}
+
+.faf_newFilterBox {
+  border: 1px dotted #ccc;
+}
+
+.faf_bigFilterNr{
+ float:right;
+ font-size:3rem;
+ /* font-size:50px; */
+ color:#ccc;
+/* margin-top:5px; */
+ margin-right:5px;
+
+
+}
+
+.faf_filterSetting {
+  margin-left: 5px;
+  
+}
+
+.faf_errorBox, .faf_newerrorBox, .faf_notBox{
+ display:none; 
+ background-color: #FFEBE8; 
+ color: #333333;
+ border: #CC0000 1px solid;
+ margin: 5px 0 15px;
+ padding: 5px 0px 5px 10px;
+ border-radius: 3px 3px 3px 3px;
+} 
+
+.faf_notBox{
+ background-color: #FFFFE0;
+ border-color: #E6DB55;
+}
+
+.faf_small {
+  font-size: 0.6rem;
+}
+
+.faf_filterHelpBox {
+	font-size: 20px; 
+	float:right;
+	position:relative;
+	
+}
+
+.faf_filterHelpText {
+ 
+  font-size: 0.6rem; 
+  display: none; 
+  position: absolute; 
+  left: 20px;
+  width:300px; 
+  z-index: 100; 
+  opacity: 0.9;
+  background-color: #ccc; 
+  padding: 5px;
+  
+}
+
+.faf_filterHelpBox:hover span {
+  display: inline;
+  border: 1px solid #ccc;  
+}
+
+.faf_loading{
+	position:relative;
+	z-index:10; 
+}
+
+.faf_loading img {	
+	position:absolute;
+	left:50%;
+	top:50%;
+
+}
+
+

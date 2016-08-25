@@ -1,0 +1,2297 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DP Pro Event Calendar\n"
+"POT-Creation-Date: 2015-09-23 15:58-0300\n"
+"PO-Revision-Date: 2015-09-23 15:58-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/base.class.php:56
+msgid "No Events were found."
+msgstr ""
+
+#: classes/base.class.php:57 settings/calendars.php:1979
+#: settings/calendars.php:2483
+msgid "All Day"
+msgstr ""
+
+#: classes/base.class.php:58 settings/calendars.php:1993
+msgid "References"
+msgstr ""
+
+#: classes/base.class.php:59
+msgid "View all events"
+msgstr ""
+
+#: classes/base.class.php:60 functions.php:934 settings/calendars.php:2021
+msgid "All Categories"
+msgstr ""
+
+#: classes/base.class.php:61 classes/base.class.php:114
+#: settings/calendars.php:2035 settings/events-meta.php:507
+#: settings/events-meta.php:719
+msgid "Monthly"
+msgstr ""
+
+#: classes/base.class.php:62 classes/base.class.php:112
+#: settings/calendars.php:1167 settings/calendars.php:2063
+#: settings/calendars.php:3139 settings/custom_shortcodes.php:172
+#: settings/events-meta.php:505 settings/events-meta.php:713
+msgid "Daily"
+msgstr ""
+
+#: classes/base.class.php:63 classes/base.class.php:113
+#: settings/calendars.php:1166 settings/calendars.php:2049
+#: settings/custom_shortcodes.php:171 settings/events-meta.php:506
+#: settings/events-meta.php:716
+msgid "Weekly"
+msgstr ""
+
+#: classes/base.class.php:64 classes/base.class.php:4381
+#: classes/base.class.php:5320 classes/base.class.php:6366
+#: settings/calendars.php:2077 settings/events-meta.php:515
+msgid "All working days"
+msgstr ""
+
+#: classes/base.class.php:65
+msgid "Search..."
+msgstr ""
+
+#: classes/base.class.php:66
+msgid "Results: "
+msgstr ""
+
+#: classes/base.class.php:67 settings/calendars.php:2679
+msgid "By"
+msgstr ""
+
+#: classes/base.class.php:68 settings/calendars.php:2693
+msgid "Current Date"
+msgstr ""
+
+#: classes/base.class.php:69 settings/calendars.php:2707
+#: templates/default/template.php:266
+msgid "Book Event"
+msgstr ""
+
+#: classes/base.class.php:70 settings/calendars.php:2721
+msgid "Remove Booking"
+msgstr ""
+
+#: classes/base.class.php:71
+msgid "Booking saved successfully."
+msgstr ""
+
+#: classes/base.class.php:72
+msgid "Booking removed successfully."
+msgstr ""
+
+#: classes/base.class.php:73
+msgid "Select Date:"
+msgstr ""
+
+#: classes/base.class.php:74 settings/calendars.php:2791
+msgid "Click to book on this date."
+msgstr ""
+
+#: classes/base.class.php:75 settings/calendars.php:2777
+msgid "Tickets Remaining"
+msgstr ""
+
+#: classes/base.class.php:76 settings/calendars.php:2805
+msgid "You have already booked this event date."
+msgstr ""
+
+#: classes/base.class.php:77 settings/calendars.php:2819
+msgid "Leave a comment (optional):"
+msgstr ""
+
+#: classes/base.class.php:78 functions.php:941 includes/core.php:271
+#: includes/core.php:417 settings/calendars.php:2091
+#: settings/custom_shortcodes.php:112
+msgid "Category"
+msgstr ""
+
+#: classes/base.class.php:79 settings/calendars.php:2105
+msgid "Subscribe"
+msgstr ""
+
+#: classes/base.class.php:80
+msgid "Receive new events notifications in your email."
+msgstr ""
+
+#: classes/base.class.php:81 settings/calendars.php:2133
+msgid "Your Name"
+msgstr ""
+
+#: classes/base.class.php:82 settings/calendars.php:2147
+msgid "Your Email"
+msgstr ""
+
+#: classes/base.class.php:83
+msgid "All fields are required."
+msgstr ""
+
+#: classes/base.class.php:84
+msgid "The Email is invalid."
+msgstr ""
+
+#: classes/base.class.php:85
+msgid "Thanks for subscribing."
+msgstr ""
+
+#: classes/base.class.php:86
+msgid "Sending..."
+msgstr ""
+
+#: classes/base.class.php:87 settings/calendars.php:2217
+msgid "Send"
+msgstr ""
+
+#: classes/base.class.php:88
+msgid "+ Add Event"
+msgstr ""
+
+#: classes/base.class.php:89 functions.php:888 settings/calendars.php:2245
+msgid "Edit Event"
+msgstr ""
+
+#: classes/base.class.php:90 settings/calendars.php:2259
+msgid "Remove Event"
+msgstr ""
+
+#: classes/base.class.php:91 settings/calendars.php:2273
+msgid "Are you sure that you want to delete this event?"
+msgstr ""
+
+#: classes/base.class.php:92 settings/calendars.php:2287
+msgid "Cancel"
+msgstr ""
+
+#: classes/base.class.php:93 settings/calendars.php:2301
+msgid "Yes"
+msgstr ""
+
+#: classes/base.class.php:94 settings/calendars.php:2315
+msgid "No"
+msgstr ""
+
+#: classes/base.class.php:95
+msgid "You must be logged in to submit an event."
+msgstr ""
+
+#: classes/base.class.php:96
+msgid "Thanks for your event submission. It will be reviewed soon."
+msgstr ""
+
+#: classes/base.class.php:97 includes/core.php:244 includes/core.php:382
+#: includes/core.php:560 includes/core.php:671 includes/core.php:777
+#: settings/calendars.php:749 settings/calendars.php:799
+#: settings/calendars.php:963 settings/special.php:100
+#: settings/special.php:130 settings/special.php:161 settings/special.php:193
+msgid "Title"
+msgstr ""
+
+#: classes/base.class.php:98 settings/calendars.php:2371
+msgid "Event Description"
+msgstr ""
+
+#: classes/base.class.php:99
+msgid "Upload an Image (optional)"
+msgstr ""
+
+#: classes/base.class.php:100 settings/events-meta.php:161
+msgid "Link (optional)"
+msgstr ""
+
+#: classes/base.class.php:101
+msgid "Text to share in social networks (optional)"
+msgstr ""
+
+#: classes/base.class.php:102 settings/events-meta.php:176
+msgid "Location (optional)"
+msgstr ""
+
+#: classes/base.class.php:103 settings/events-meta.php:181
+msgid "Phone (optional)"
+msgstr ""
+
+#: classes/base.class.php:104 settings/events-meta.php:186
+msgid "Google Map (optional)"
+msgstr ""
+
+#: classes/base.class.php:105 settings/calendars.php:2469
+msgid "Start Date"
+msgstr ""
+
+#: classes/base.class.php:106 settings/events-meta.php:500
+msgid "Set if the event is all the day."
+msgstr ""
+
+#: classes/base.class.php:107 settings/calendars.php:2497
+#: settings/events-meta.php:456
+msgid "Start Time"
+msgstr ""
+
+#: classes/base.class.php:108 settings/calendars.php:2511
+#: settings/events-meta.php:474
+msgid "Hide Time"
+msgstr ""
+
+#: classes/base.class.php:109 settings/calendars.php:2525
+#: settings/events-meta.php:477
+msgid "End Time"
+msgstr ""
+
+#: classes/base.class.php:110 settings/calendars.php:2539
+#: settings/events-meta.php:652
+msgid "Frequency"
+msgstr ""
+
+#: classes/base.class.php:111 classes/base.class.php:4497
+#: classes/base.class.php:5435 classes/base.class.php:6480
+#: includes/core.php:303 includes/core.php:432 includes/core.php:589
+#: includes/core.php:700 settings/calendars.php:1541
+#: settings/calendars.php:2553 settings/custom_shortcodes.php:228
+#: settings/events-meta.php:141 settings/events-meta.php:198
+#: settings/events-meta.php:504 settings/settings.php:106
+msgid "None"
+msgstr ""
+
+#: classes/base.class.php:115 settings/events-meta.php:508
+#: settings/events-meta.php:722
+msgid "Yearly"
+msgstr ""
+
+#: classes/base.class.php:116 settings/calendars.php:2623
+#: settings/events-meta.php:558 settings/events-meta.php:651
+msgid "End Date"
+msgstr ""
+
+#: classes/base.class.php:117 settings/calendars.php:2637
+msgid "Submit for Review"
+msgstr ""
+
+#: classes/base.class.php:118 settings/calendars.php:1881
+msgid "Prev Month"
+msgstr ""
+
+#: classes/base.class.php:119 settings/calendars.php:1895
+msgid "Next Month"
+msgstr ""
+
+#: classes/base.class.php:120 settings/calendars.php:1909
+msgid "Prev Day"
+msgstr ""
+
+#: classes/base.class.php:121 settings/calendars.php:1923
+msgid "Next Day"
+msgstr ""
+
+#: classes/base.class.php:122 settings/calendars.php:1937
+msgid "Prev Week"
+msgstr ""
+
+#: classes/base.class.php:123 settings/calendars.php:1951
+msgid "Next Week"
+msgstr ""
+
+#: classes/base.class.php:124 classes/base.class.php:4443
+#: classes/base.class.php:5382 classes/base.class.php:6428
+#: settings/calendars.php:1147 settings/calendars.php:2833
+#: settings/events-meta.php:548
+msgid "Sunday"
+msgstr ""
+
+#: classes/base.class.php:125 classes/base.class.php:4437
+#: classes/base.class.php:5376 classes/base.class.php:6422
+#: settings/calendars.php:1148 settings/calendars.php:2847
+#: settings/events-meta.php:542
+msgid "Monday"
+msgstr ""
+
+#: classes/base.class.php:126 classes/base.class.php:4438
+#: classes/base.class.php:5377 classes/base.class.php:6423
+#: settings/calendars.php:2861 settings/events-meta.php:543
+msgid "Tuesday"
+msgstr ""
+
+#: classes/base.class.php:127 classes/base.class.php:4439
+#: classes/base.class.php:5378 classes/base.class.php:6424
+#: settings/calendars.php:2875 settings/events-meta.php:544
+msgid "Wednesday"
+msgstr ""
+
+#: classes/base.class.php:128 classes/base.class.php:4440
+#: classes/base.class.php:5379 classes/base.class.php:6425
+#: settings/calendars.php:2889 settings/events-meta.php:545
+msgid "Thursday"
+msgstr ""
+
+#: classes/base.class.php:129 classes/base.class.php:4441
+#: classes/base.class.php:5380 classes/base.class.php:6426
+#: settings/calendars.php:2903 settings/events-meta.php:546
+msgid "Friday"
+msgstr ""
+
+#: classes/base.class.php:130 classes/base.class.php:4442
+#: classes/base.class.php:5381 classes/base.class.php:6427
+#: settings/calendars.php:2917 settings/events-meta.php:547
+msgid "Saturday"
+msgstr ""
+
+#: classes/base.class.php:132 functions.php:2130 settings/calendars.php:2931
+msgid "January"
+msgstr ""
+
+#: classes/base.class.php:133 functions.php:2131 settings/calendars.php:2945
+msgid "February"
+msgstr ""
+
+#: classes/base.class.php:134 functions.php:2132 settings/calendars.php:2959
+msgid "March"
+msgstr ""
+
+#: classes/base.class.php:135 functions.php:2133 settings/calendars.php:2973
+msgid "April"
+msgstr ""
+
+#: classes/base.class.php:136 functions.php:2134 settings/calendars.php:2987
+msgid "May"
+msgstr ""
+
+#: classes/base.class.php:137 functions.php:2135 settings/calendars.php:3001
+msgid "June"
+msgstr ""
+
+#: classes/base.class.php:138 functions.php:2136 settings/calendars.php:3015
+msgid "July"
+msgstr ""
+
+#: classes/base.class.php:139 functions.php:2137 settings/calendars.php:3029
+msgid "August"
+msgstr ""
+
+#: classes/base.class.php:140 functions.php:2138 settings/calendars.php:3043
+msgid "September"
+msgstr ""
+
+#: classes/base.class.php:141 functions.php:2139 settings/calendars.php:3057
+msgid "October"
+msgstr ""
+
+#: classes/base.class.php:142 functions.php:2140 settings/calendars.php:3071
+msgid "November"
+msgstr ""
+
+#: classes/base.class.php:143 functions.php:2141 settings/calendars.php:3085
+msgid "December"
+msgstr ""
+
+#: classes/base.class.php:742
+msgid "Your Phone"
+msgstr ""
+
+#: classes/base.class.php:757
+#, php-format
+msgid "Booking of %s"
+msgstr ""
+
+#: classes/base.class.php:862 functions.php:776
+#: includes/export_bookings.php:28 includes/export_bookings.php:79
+#: settings/events-meta.php:300 settings/events-meta.php:363
+msgid "Quantity"
+msgstr ""
+
+#: classes/base.class.php:869
+#, php-format
+msgid "I've read and accept the %s terms & conditions %s"
+msgstr ""
+
+#: classes/base.class.php:900
+msgid "Attendees"
+msgstr ""
+
+#: classes/base.class.php:1212 classes/base.class.php:2701
+#: classes/base.class.php:2745 classes/base.class.php:3803
+#: classes/base.class.php:3846 classes/base.class.php:5838
+msgid "More"
+msgstr ""
+
+#: classes/base.class.php:2200 classes/base.class.php:2234
+#: classes/base.class.php:2299 settings/calendars.php:3217
+msgid "Back"
+msgstr ""
+
+#: classes/base.class.php:4377 classes/base.class.php:5319
+#: classes/base.class.php:6365 settings/events-meta.php:514
+msgid "Every"
+msgstr ""
+
+#: classes/base.class.php:4377 classes/base.class.php:5319
+#: classes/base.class.php:6365 settings/events-meta.php:514
+msgid "days"
+msgstr ""
+
+#: classes/base.class.php:4389 classes/base.class.php:4422
+#: classes/base.class.php:5328 classes/base.class.php:5361
+#: classes/base.class.php:6374 classes/base.class.php:6407
+#: settings/events-meta.php:518 settings/events-meta.php:529
+msgid "Repeat every"
+msgstr ""
+
+#: classes/base.class.php:4389 classes/base.class.php:5328
+#: classes/base.class.php:6374 settings/events-meta.php:518
+msgid "week(s) on:"
+msgstr ""
+
+#: classes/base.class.php:4394 classes/base.class.php:5333
+#: classes/base.class.php:6379 settings/events-meta.php:520
+msgid "Mon"
+msgstr ""
+
+#: classes/base.class.php:4397 classes/base.class.php:5336
+#: classes/base.class.php:6382 settings/events-meta.php:521
+msgid "Tue"
+msgstr ""
+
+#: classes/base.class.php:4400 classes/base.class.php:5339
+#: classes/base.class.php:6385 settings/events-meta.php:522
+msgid "Wed"
+msgstr ""
+
+#: classes/base.class.php:4403 classes/base.class.php:5342
+#: classes/base.class.php:6388 settings/events-meta.php:523
+msgid "Thu"
+msgstr ""
+
+#: classes/base.class.php:4406 classes/base.class.php:5345
+#: classes/base.class.php:6391 settings/events-meta.php:524
+msgid "Fri"
+msgstr ""
+
+#: classes/base.class.php:4409 classes/base.class.php:5348
+#: classes/base.class.php:6394 settings/events-meta.php:525
+msgid "Sat"
+msgstr ""
+
+#: classes/base.class.php:4412 classes/base.class.php:5351
+#: classes/base.class.php:6397 settings/events-meta.php:526
+msgid "Sun"
+msgstr ""
+
+#: classes/base.class.php:4422 classes/base.class.php:5361
+#: classes/base.class.php:6407 settings/events-meta.php:529
+msgid "month(s) on:"
+msgstr ""
+
+#: classes/base.class.php:4427 classes/base.class.php:4436
+#: classes/base.class.php:5366 classes/base.class.php:5375
+#: classes/base.class.php:6412 classes/base.class.php:6421
+msgid "Recurring Option"
+msgstr ""
+
+#: classes/base.class.php:4428 classes/base.class.php:5367
+#: classes/base.class.php:6413 settings/events-meta.php:533
+msgid "First"
+msgstr ""
+
+#: classes/base.class.php:4429 classes/base.class.php:5368
+#: classes/base.class.php:6414 settings/events-meta.php:534
+msgid "Second"
+msgstr ""
+
+#: classes/base.class.php:4430 classes/base.class.php:5369
+#: classes/base.class.php:6415 settings/events-meta.php:535
+msgid "Third"
+msgstr ""
+
+#: classes/base.class.php:4431 classes/base.class.php:5370
+#: classes/base.class.php:6416 settings/events-meta.php:536
+msgid "Fourth"
+msgstr ""
+
+#: classes/base.class.php:4432 classes/base.class.php:5371
+#: classes/base.class.php:6417 settings/events-meta.php:537
+msgid "Last"
+msgstr ""
+
+#: classes/base.class.php:4453 classes/base.class.php:5391
+#: classes/base.class.php:6437
+msgid "Allow Bookings?"
+msgstr ""
+
+#: classes/base.class.php:4461 classes/base.class.php:5399
+#: classes/base.class.php:6445
+msgid "Price"
+msgstr ""
+
+#: classes/base.class.php:4468 classes/base.class.php:5406
+#: classes/base.class.php:6452
+msgid "Booking Limit"
+msgstr ""
+
+#: classes/base.class.php:4495 classes/base.class.php:5433
+#: classes/base.class.php:6478
+msgid "Select a color"
+msgstr ""
+
+#: classes/base.class.php:4537 classes/base.class.php:5475
+#: classes/base.class.php:6520
+msgid "Drag the marker to set a specific position"
+msgstr ""
+
+#: functions.php:884
+msgid "Pro Event Calendar"
+msgstr ""
+
+#: functions.php:885 functions.php:896 settings/calendars.php:703
+#: settings/calendars.php:751 settings/calendars.php:801
+#: settings/custom_shortcodes.php:29 settings/settings.php:71
+#: settings/special.php:65
+msgid "Events"
+msgstr ""
+
+#: functions.php:886 settings/settings.php:441
+msgid "Add New"
+msgstr ""
+
+#: functions.php:887
+msgid "Add New Event"
+msgstr ""
+
+#: functions.php:889
+msgid "New Event"
+msgstr ""
+
+#: functions.php:890
+msgid "All Events"
+msgstr ""
+
+#: functions.php:891
+msgid "View Event"
+msgstr ""
+
+#: functions.php:892
+msgid "Search Events"
+msgstr ""
+
+#: functions.php:893 settings/calendars.php:1965
+msgid "No Events Found"
+msgstr ""
+
+#: functions.php:894
+msgid "No Events Found in Trash"
+msgstr ""
+
+#: functions.php:931
+msgctxt "taxonomy general name"
+msgid "Categories"
+msgstr ""
+
+#: functions.php:932
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr ""
+
+#: functions.php:933
+msgid "Search Categories"
+msgstr ""
+
+#: functions.php:935
+msgid "Parent Category"
+msgstr ""
+
+#: functions.php:936
+msgid "Parent Category:"
+msgstr ""
+
+#: functions.php:937
+msgid "Edit Category"
+msgstr ""
+
+#: functions.php:938
+msgid "Update Category"
+msgstr ""
+
+#: functions.php:939
+msgid "Add New Category"
+msgstr ""
+
+#: functions.php:940
+msgid "New Category Name"
+msgstr ""
+
+#: functions.php:1011
+msgid "Error duplicating post."
+msgstr ""
+
+#: functions.php:1054
+#, php-format
+msgid "Post duplicated."
+msgid_plural "%s posts duplicated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:1194
+msgid "Failed Captcha"
+msgstr ""
+
+#: functions.php:2111 includes/export_bookings.php:62
+#: settings/events-meta.php:343
+msgid "Completed"
+msgstr ""
+
+#: functions.php:2112 includes/export_bookings.php:62
+#: settings/events-meta.php:344
+msgid "Pending"
+msgstr ""
+
+#: functions.php:2115 includes/export_bookings.php:63
+#: settings/calendars.php:785 settings/calendars.php:3197
+#: settings/events-meta.php:347 settings/settings.php:397
+#: settings/settings.php:418 settings/special.php:182
+msgid "Delete"
+msgstr ""
+
+#: functions.php:2115 includes/export_bookings.php:63
+#: settings/events-meta.php:347
+msgid "Are you sure that you want to remove this booking?"
+msgstr ""
+
+#: functions.php:2200
+msgid "Latest Event Bookings"
+msgstr ""
+
+#: includes/core.php:249 includes/core.php:565 includes/core.php:676
+#: includes/core.php:782 settings/calendars.php:750 settings/calendars.php:800
+#: settings/calendars.php:977
+msgid "Description"
+msgstr ""
+
+#: includes/core.php:254 includes/core.php:392 includes/core.php:570
+#: includes/core.php:681 includes/core.php:787 includes/ical.php:56
+#: includes/ical_event.php:65 includes/rss.php:25 settings/calendars.php:926
+#: settings/calendars.php:1164 settings/custom_shortcodes.php:59
+#: settings/custom_shortcodes.php:169 settings/events-meta.php:415
+#: settings/events-meta.php:649
+msgid "Calendar"
+msgstr ""
+
+#: includes/core.php:273 settings/custom_shortcodes.php:116
+msgid "All Categories..."
+msgstr ""
+
+#: includes/core.php:288
+msgid "Author"
+msgstr ""
+
+#: includes/core.php:290
+msgid "All Authors..."
+msgstr ""
+
+#: includes/core.php:291 settings/custom_shortcodes.php:188
+msgid "Current logged in user"
+msgstr ""
+
+#: includes/core.php:301 includes/core.php:430 includes/core.php:587
+#: includes/core.php:698 settings/calendars.php:1293
+msgid "Skin"
+msgstr ""
+
+#: includes/core.php:304 includes/core.php:433 includes/core.php:590
+#: includes/core.php:701 settings/custom_shortcodes.php:229
+msgid "Red"
+msgstr ""
+
+#: includes/core.php:305 includes/core.php:434 includes/core.php:591
+#: includes/core.php:702 settings/custom_shortcodes.php:230
+msgid "Pink"
+msgstr ""
+
+#: includes/core.php:306 includes/core.php:435 includes/core.php:592
+#: includes/core.php:703 settings/custom_shortcodes.php:231
+msgid "Purple"
+msgstr ""
+
+#: includes/core.php:307 includes/core.php:436 includes/core.php:593
+#: includes/core.php:704 settings/custom_shortcodes.php:232
+msgid "Deep Purple"
+msgstr ""
+
+#: includes/core.php:308 includes/core.php:437 includes/core.php:594
+#: includes/core.php:705 settings/custom_shortcodes.php:233
+msgid "Indigo"
+msgstr ""
+
+#: includes/core.php:309 includes/core.php:438 includes/core.php:595
+#: includes/core.php:706 settings/custom_shortcodes.php:234
+msgid "Blue"
+msgstr ""
+
+#: includes/core.php:310 includes/core.php:439 includes/core.php:596
+#: includes/core.php:707 settings/custom_shortcodes.php:235
+msgid "Light Blue"
+msgstr ""
+
+#: includes/core.php:311 includes/core.php:440 includes/core.php:597
+#: includes/core.php:708 settings/custom_shortcodes.php:236
+msgid "Cyan"
+msgstr ""
+
+#: includes/core.php:312 includes/core.php:441 includes/core.php:598
+#: includes/core.php:709 settings/custom_shortcodes.php:237
+msgid "Teal"
+msgstr ""
+
+#: includes/core.php:313 includes/core.php:442 includes/core.php:599
+#: includes/core.php:710 settings/custom_shortcodes.php:238
+msgid "Green"
+msgstr ""
+
+#: includes/core.php:314 includes/core.php:443 includes/core.php:600
+#: includes/core.php:711 settings/custom_shortcodes.php:239
+msgid "Light Green"
+msgstr ""
+
+#: includes/core.php:315 includes/core.php:444 includes/core.php:601
+#: includes/core.php:712 settings/custom_shortcodes.php:240
+msgid "Lime"
+msgstr ""
+
+#: includes/core.php:316 includes/core.php:445 includes/core.php:602
+#: includes/core.php:713 settings/custom_shortcodes.php:241
+msgid "Yellow"
+msgstr ""
+
+#: includes/core.php:317 includes/core.php:446 includes/core.php:603
+#: includes/core.php:714 settings/custom_shortcodes.php:242
+msgid "Amber"
+msgstr ""
+
+#: includes/core.php:318 includes/core.php:447 includes/core.php:604
+#: includes/core.php:715 settings/custom_shortcodes.php:243
+msgid "Orange"
+msgstr ""
+
+#: includes/core.php:319 includes/core.php:448 includes/core.php:605
+#: includes/core.php:716 settings/custom_shortcodes.php:244
+msgid "Deep Orange"
+msgstr ""
+
+#: includes/core.php:320 includes/core.php:449 includes/core.php:606
+#: includes/core.php:717 settings/custom_shortcodes.php:245
+msgid "Brown"
+msgstr ""
+
+#: includes/core.php:321 includes/core.php:450 includes/core.php:607
+#: includes/core.php:718 settings/custom_shortcodes.php:246
+msgid "Grey"
+msgstr ""
+
+#: includes/core.php:322 includes/core.php:451 includes/core.php:608
+#: includes/core.php:719 settings/custom_shortcodes.php:247
+msgid "Blue Grey"
+msgstr ""
+
+#: includes/core.php:387
+msgid "Descriptio"
+msgstr ""
+
+#: includes/core.php:408 settings/custom_shortcodes.php:85
+msgid "Layout"
+msgstr ""
+
+#: includes/core.php:410 settings/custom_shortcodes.php:89
+#: settings/custom_shortcodes.php:168
+msgid "Default"
+msgstr ""
+
+#: includes/core.php:411
+msgid "Accordion"
+msgstr ""
+
+#: includes/core.php:412 settings/calendars.php:2455
+msgid "Google Map"
+msgstr ""
+
+#: includes/core.php:413
+msgid "Grid"
+msgstr ""
+
+#: includes/core.php:419 settings/calendars.php:1370
+#: settings/calendars.php:1512
+msgid "All"
+msgstr ""
+
+#: includes/core.php:456
+msgid "Number of events to retrieve"
+msgstr ""
+
+#: includes/core.php:460
+msgid "Pagination"
+msgstr ""
+
+#: includes/core.php:464 settings/custom_shortcodes.php:205
+msgid "Columns"
+msgstr ""
+
+#: includes/core.php:466 settings/custom_shortcodes.php:209
+msgid "1 Column"
+msgstr ""
+
+#: includes/core.php:467 settings/custom_shortcodes.php:210
+msgid "2 Columns"
+msgstr ""
+
+#: includes/core.php:468 settings/custom_shortcodes.php:211
+msgid "3 Columns"
+msgstr ""
+
+#: includes/core.php:469 settings/custom_shortcodes.php:212
+msgid "4 Columns"
+msgstr ""
+
+#: includes/core.php:473 includes/core.php:613
+msgid "Limit Description"
+msgstr ""
+
+#: includes/core.php:984 settings/settings.php:397 settings/settings.php:418
+msgid "Are you sure?"
+msgstr ""
+
+#: includes/core.php:993
+msgid "All the events in this calendar will be deleted. Are you sure?"
+msgstr ""
+
+#: includes/export_bookings.php:24 includes/export_bookings.php:75
+#: settings/calendars.php:3177 settings/calendars.php:3203
+#: settings/events-meta.php:296 settings/events-meta.php:359
+#: settings/settings.php:376 settings/settings.php:431
+msgid "Name"
+msgstr ""
+
+#: includes/export_bookings.php:25 includes/export_bookings.php:76
+#: settings/calendars.php:3178 settings/calendars.php:3204
+#: settings/events-meta.php:297 settings/events-meta.php:360
+msgid "Email"
+msgstr ""
+
+#: includes/export_bookings.php:26 includes/export_bookings.php:77
+#: settings/events-meta.php:298 settings/events-meta.php:361
+msgid "Booking Date"
+msgstr ""
+
+#: includes/export_bookings.php:27 includes/export_bookings.php:78
+#: settings/events-meta.php:299 settings/events-meta.php:362
+msgid "Event Date"
+msgstr ""
+
+#: includes/export_bookings.php:29 includes/export_bookings.php:80
+#: settings/calendars.php:2441 settings/events-meta.php:301
+#: settings/events-meta.php:364
+msgid "Phone"
+msgstr ""
+
+#: includes/export_bookings.php:30 includes/export_bookings.php:81
+#: settings/events-meta.php:302 settings/events-meta.php:365
+msgid "Comment"
+msgstr ""
+
+#: includes/export_bookings.php:31 includes/export_bookings.php:82
+#: settings/events-meta.php:303 settings/events-meta.php:366
+msgid "Status"
+msgstr ""
+
+#: includes/export_bookings.php:70 settings/events-meta.php:354
+msgid "No Booking Found."
+msgstr ""
+
+#: settings/calendars.php:701 settings/custom_shortcodes.php:27
+#: settings/settings.php:69 settings/settings.php:90 settings/special.php:63
+msgid "General Settings"
+msgstr ""
+
+#: settings/calendars.php:702 settings/custom_shortcodes.php:28
+#: settings/settings.php:17 settings/settings.php:70 settings/special.php:64
+msgid "Calendars"
+msgstr ""
+
+#: settings/calendars.php:704 settings/custom_shortcodes.php:30
+#: settings/settings.php:18 settings/special.php:66 settings/special.php:84
+msgid "Special Dates / Event Color"
+msgstr ""
+
+#: settings/calendars.php:705 settings/custom_shortcodes.php:31
+#: settings/custom_shortcodes.php:48 settings/settings.php:20
+#: settings/settings.php:73 settings/special.php:67
+msgid "Custom Shortcodes"
+msgstr ""
+
+#: settings/calendars.php:709 settings/custom_shortcodes.php:35
+#: settings/settings.php:77 settings/special.php:71
+msgid "Payments Options"
+msgstr ""
+
+#: settings/calendars.php:711 settings/custom_shortcodes.php:37
+#: settings/settings.php:79 settings/special.php:73
+msgid "Documentation"
+msgstr ""
+
+#: settings/calendars.php:724
+msgid "Calendars List"
+msgstr ""
+
+#: settings/calendars.php:725
+msgid "Use the shortcode in your posts or pages."
+msgstr ""
+
+#: settings/calendars.php:741 settings/calendars.php:809
+msgid "Add new calendar"
+msgstr ""
+
+#: settings/calendars.php:747 settings/calendars.php:797
+#: settings/settings.php:375 settings/settings.php:430
+#: settings/special.php:160 settings/special.php:192
+msgid "ID"
+msgstr ""
+
+#: settings/calendars.php:748 settings/calendars.php:798
+msgid "Default Shortcode"
+msgstr ""
+
+#: settings/calendars.php:752 settings/calendars.php:802
+#: settings/calendars.php:3180 settings/calendars.php:3206
+#: settings/special.php:163 settings/special.php:195
+msgid "Actions"
+msgstr ""
+
+#: settings/calendars.php:783 settings/special.php:181
+msgid "Edit"
+msgstr ""
+
+#: settings/calendars.php:784 settings/settings.php:18
+#: settings/settings.php:72
+msgid "Special Dates"
+msgstr ""
+
+#: settings/calendars.php:786
+msgid "Delete All Events"
+msgstr ""
+
+#: settings/calendars.php:814 settings/calendars.php:869
+msgid "Import Events"
+msgstr ""
+
+#: settings/calendars.php:818
+msgid "Select a Calendar"
+msgstr ""
+
+#: settings/calendars.php:835
+msgid "Select a Category (optional)"
+msgstr ""
+
+#: settings/calendars.php:849
+msgid "From ICS:"
+msgstr ""
+
+#: settings/calendars.php:850
+msgid "Select the .ics file. "
+msgstr ""
+
+#: settings/calendars.php:850
+msgid "Max"
+msgstr ""
+
+#: settings/calendars.php:853
+msgid "From Facebook:"
+msgstr ""
+
+#: settings/calendars.php:856
+msgid "Facebook Event URL"
+msgstr ""
+
+#: settings/calendars.php:857
+msgid "Facebook Page URL"
+msgstr ""
+
+#: settings/calendars.php:863
+msgid "Notice: This feature requires the FB API keys in the <a href=\""
+msgstr ""
+
+#: settings/calendars.php:927
+msgid "Customize the Calendar."
+msgstr ""
+
+#: settings/calendars.php:949
+msgid "Active"
+msgstr ""
+
+#: settings/calendars.php:955
+msgid "On/Off the calendar"
+msgstr ""
+
+#: settings/calendars.php:966
+msgid "Introduce the title (80 chars max.)"
+msgstr ""
+
+#: settings/calendars.php:980
+msgid "Introduce the description"
+msgstr ""
+
+#: settings/calendars.php:991
+msgid "Preselected Date"
+msgstr ""
+
+#: settings/calendars.php:1003
+msgid ""
+"Select the preselected date.(optional)<br />Leave blank to NOT preselect any "
+"date."
+msgstr ""
+
+#: settings/calendars.php:1011
+msgid "Active iCal Feed"
+msgstr ""
+
+#: settings/calendars.php:1017
+msgid "On/Off the ical feed for this calendar"
+msgstr ""
+
+#: settings/calendars.php:1025
+msgid "iCal Limit"
+msgstr ""
+
+#: settings/calendars.php:1031 settings/calendars.php:1059
+msgid "Limits the number of future events shown (0 = unlimited)."
+msgstr ""
+
+#: settings/calendars.php:1031
+msgid "iCal feed URL: "
+msgstr ""
+
+#: settings/calendars.php:1039
+msgid "Active RSS Feed"
+msgstr ""
+
+#: settings/calendars.php:1045
+msgid "On/Off the rss feed for this calendar"
+msgstr ""
+
+#: settings/calendars.php:1053
+msgid "RSS Limit"
+msgstr ""
+
+#: settings/calendars.php:1067
+msgid "Link Events to Single Post"
+msgstr ""
+
+#: settings/calendars.php:1073
+msgid "Adds a link in the event title to the post type single page."
+msgstr ""
+
+#: settings/calendars.php:1081
+msgid "Include share buttons"
+msgstr ""
+
+#: settings/calendars.php:1087
+msgid ""
+"Adds a share bar in the events content using the Wordpress Article Social "
+"Share plugin"
+msgstr ""
+
+#: settings/calendars.php:1089
+msgid ""
+"Notice: This feature requires the <a href=\"http://codecanyon.net/item/"
+"wordpress-article-social-share/6247263\" target=\"_blank\">\n"
+"Wordpress Article Social Share plugin</a>."
+msgstr ""
+
+#: settings/calendars.php:1099
+msgid "Date Range"
+msgstr ""
+
+#: settings/calendars.php:1121
+msgid "Select the date range.(optional)"
+msgstr ""
+
+#: settings/calendars.php:1129
+msgid "Hide Old Dates"
+msgstr ""
+
+#: settings/calendars.php:1135
+msgid "Hide old dates in calendar view."
+msgstr ""
+
+#: settings/calendars.php:1143
+msgid "First Day"
+msgstr ""
+
+#: settings/calendars.php:1152
+msgid "Select the first day to display in the calendar"
+msgstr ""
+
+#: settings/calendars.php:1160
+msgid "Default View"
+msgstr ""
+
+#: settings/calendars.php:1165 settings/custom_shortcodes.php:170
+msgid "Monthly Events List"
+msgstr ""
+
+#: settings/calendars.php:1171
+msgid "Select the default view."
+msgstr ""
+
+#: settings/calendars.php:1179
+msgid "Show Monthly / Weekly / Daily Buttons"
+msgstr ""
+
+#: settings/calendars.php:1185
+msgid "Set if Show/Hide the Monthly / Weekly / Daily Buttons."
+msgstr ""
+
+#: settings/calendars.php:1193
+msgid "Daily / Weekly layout"
+msgstr ""
+
+#: settings/calendars.php:1197
+msgid "List"
+msgstr ""
+
+#: settings/calendars.php:1198
+msgid "Schedule"
+msgstr ""
+
+#: settings/calendars.php:1202
+msgid "Select the events layout for the daily and weekly view."
+msgstr ""
+
+#: settings/calendars.php:1210
+msgid "Limit Time in daily / weekly schedule view"
+msgstr ""
+
+#: settings/calendars.php:1218
+msgid "Set a range of time to display in the daily / weekly schedule layout."
+msgstr ""
+
+#: settings/calendars.php:1224
+msgid "MailChimp Subscription"
+msgstr ""
+
+#: settings/calendars.php:1228
+msgid "Active Subscribe Button"
+msgstr ""
+
+#: settings/calendars.php:1234
+msgid "On/Off the \"subscribe\" button for this calendar"
+msgstr ""
+
+#: settings/calendars.php:1242
+msgid "API Key"
+msgstr ""
+
+#: settings/calendars.php:1245
+msgid "Introduce your MailChimp API key."
+msgstr ""
+
+#: settings/calendars.php:1246
+msgid "Get Lists"
+msgstr ""
+
+#: settings/calendars.php:1257
+msgid "List:"
+msgstr ""
+
+#: settings/calendars.php:1281
+msgid "Select a list to add the new suscribers."
+msgstr ""
+
+#: settings/calendars.php:1288
+msgid "Display Settings"
+msgstr ""
+
+#: settings/calendars.php:1297
+msgid "Light"
+msgstr ""
+
+#: settings/calendars.php:1298
+msgid "Dark"
+msgstr ""
+
+#: settings/calendars.php:1302
+msgid "Select the skin theme"
+msgstr ""
+
+#: settings/calendars.php:1310
+msgid "Show Time"
+msgstr ""
+
+#: settings/calendars.php:1316
+msgid "Set if Show/Hide the events time."
+msgstr ""
+
+#: settings/calendars.php:1324
+msgid "Hour Format AM/PM"
+msgstr ""
+
+#: settings/calendars.php:1330
+msgid "Set the hour format to AM/PM, if disabled the format will be 24 hours"
+msgstr ""
+
+#: settings/calendars.php:1338
+msgid "Show Search"
+msgstr ""
+
+#: settings/calendars.php:1344
+msgid "Set if Show/Hide the search input."
+msgstr ""
+
+#: settings/calendars.php:1352
+msgid "Show Category Filter"
+msgstr ""
+
+#: settings/calendars.php:1358
+msgid "Show/Hide the categories dropdown."
+msgstr ""
+
+#: settings/calendars.php:1366
+msgid "Categories to display"
+msgstr ""
+
+#: settings/calendars.php:1390
+msgid ""
+"Select specific categories to display. To select multiple categories, keep "
+"pressing ctrl."
+msgstr ""
+
+#: settings/calendars.php:1398
+msgid "Show X in dates with events?"
+msgstr ""
+
+#: settings/calendars.php:1404
+msgid "Set if Show a X instead of the number of events in a date."
+msgstr ""
+
+#: settings/calendars.php:1412
+msgid "Show Events Title?"
+msgstr ""
+
+#: settings/calendars.php:1418
+msgid "Display the event titles in the calendar layout"
+msgstr ""
+
+#: settings/calendars.php:1426
+msgid "Show Events Preview?"
+msgstr ""
+
+#: settings/calendars.php:1432
+msgid "Display a list of event in a day on mouse over"
+msgstr ""
+
+#: settings/calendars.php:1440
+msgid "Show References Button?"
+msgstr ""
+
+#: settings/calendars.php:1446
+msgid "Display the references button"
+msgstr ""
+
+#: settings/calendars.php:1454
+msgid "Display the Event Author"
+msgstr ""
+
+#: settings/calendars.php:1460
+msgid "Display the event author"
+msgstr ""
+
+#: settings/calendars.php:1468
+msgid "Current Date Color"
+msgstr ""
+
+#: settings/calendars.php:1475
+msgid "Set the Current date color."
+msgstr ""
+
+#: settings/calendars.php:1483
+msgid "Width"
+msgstr ""
+
+#: settings/calendars.php:1488
+msgid "pixels"
+msgstr ""
+
+#: settings/calendars.php:1489
+msgid "percentage"
+msgstr ""
+
+#: settings/calendars.php:1493
+msgid "Set the width of the calendar"
+msgstr ""
+
+#: settings/calendars.php:1500
+msgid "User's Events"
+msgstr ""
+
+#: settings/calendars.php:1505
+msgid "Allow users to add events?"
+msgstr ""
+
+#: settings/calendars.php:1529
+msgid ""
+"Adds the possibility for registered users to add events. Select multiple "
+"user roles using the ctrl key."
+msgstr ""
+
+#: settings/calendars.php:1537
+msgid "Assign new events from a non-logged in user to an admin"
+msgstr ""
+
+#: settings/calendars.php:1558
+msgid "This will allow non-logged in users to submit new events."
+msgstr ""
+
+#: settings/calendars.php:1566
+msgid "Allow users to edit their events?"
+msgstr ""
+
+#: settings/calendars.php:1572
+msgid "Adds the possibility for logged in users to edit their events."
+msgstr ""
+
+#: settings/calendars.php:1580
+msgid "Allow users to remove their events?"
+msgstr ""
+
+#: settings/calendars.php:1586
+msgid "Adds the possibility for logged in users to remove their events."
+msgstr ""
+
+#: settings/calendars.php:1594
+msgid "Publish automatically?"
+msgstr ""
+
+#: settings/calendars.php:1600
+msgid "Publish events submitted by users automatically?"
+msgstr ""
+
+#: settings/calendars.php:1608
+msgid "Email that will receive the user after publishing the event"
+msgstr ""
+
+#: settings/calendars.php:1614
+msgid ""
+"Template of the email that will receive the user. Use the reserved tags to "
+"display dynamic data."
+msgstr ""
+
+#: settings/calendars.php:1622
+msgid "Send Email to Admin when a user submits a new event"
+msgstr ""
+
+#: settings/calendars.php:1628
+msgid "Email will be sent to ("
+msgstr ""
+
+#: settings/calendars.php:1636
+msgid "Enable Text Editor"
+msgstr ""
+
+#: settings/calendars.php:1642
+msgid "Enables the text editor in the frontend form."
+msgstr ""
+
+#: settings/calendars.php:1650
+msgid "Form Customization"
+msgstr ""
+
+#: settings/calendars.php:1653
+msgid "Show Event Decription"
+msgstr ""
+
+#: settings/calendars.php:1655
+msgid "Show Category Dropdown"
+msgstr ""
+
+#: settings/calendars.php:1657
+msgid "Show 'Hide Time' option"
+msgstr ""
+
+#: settings/calendars.php:1659
+msgid "Show Frequency"
+msgstr ""
+
+#: settings/calendars.php:1661
+msgid "Show All Day option"
+msgstr ""
+
+#: settings/calendars.php:1663
+msgid "Allow to upload an image"
+msgstr ""
+
+#: settings/calendars.php:1665
+msgid "Show Link field"
+msgstr ""
+
+#: settings/calendars.php:1667
+msgid "Show Share Text option"
+msgstr ""
+
+#: settings/calendars.php:1669
+msgid "Show Location field"
+msgstr ""
+
+#: settings/calendars.php:1671
+msgid "Show Phone option"
+msgstr ""
+
+#: settings/calendars.php:1673
+msgid "Show Map option"
+msgstr ""
+
+#: settings/calendars.php:1675
+msgid "Show 'Color' option"
+msgstr ""
+
+#: settings/calendars.php:1677
+msgid "Show Booking Enable checkbox"
+msgstr ""
+
+#: settings/calendars.php:1679
+msgid "Show Booking Limit"
+msgstr ""
+
+#: settings/calendars.php:1681
+msgid "Show Booking Price"
+msgstr ""
+
+#: settings/calendars.php:1683
+msgid "Add custom fields from the <a href=\""
+msgstr ""
+
+#: settings/calendars.php:1686
+msgid "Customize the frontend form"
+msgstr ""
+
+#: settings/calendars.php:1694 settings/events-meta.php:9
+msgid "Booking"
+msgstr ""
+
+#: settings/calendars.php:1700
+msgid "Enable booking for all the events"
+msgstr ""
+
+#: settings/calendars.php:1706
+msgid ""
+"A \"Book Event\" button will be displayed on the event page for logged in "
+"users by default."
+msgstr ""
+
+#: settings/calendars.php:1714
+msgid "Enable comment option in booking form"
+msgstr ""
+
+#: settings/calendars.php:1720
+msgid "Enables a comment text field."
+msgstr ""
+
+#: settings/calendars.php:1728
+msgid "Allow not logged in users to book an event"
+msgstr ""
+
+#: settings/calendars.php:1734
+msgid "A Full name and email field will be required in the booking form."
+msgstr ""
+
+#: settings/calendars.php:1742
+msgid "Display attendees counter?"
+msgstr ""
+
+#: settings/calendars.php:1748
+msgid "A counter of the attendees will be displayed in the frontend."
+msgstr ""
+
+#: settings/calendars.php:1756
+msgid "Display Phone field?"
+msgstr ""
+
+#: settings/calendars.php:1762
+msgid "Display a phone field for users in the booking form."
+msgstr ""
+
+#: settings/calendars.php:1770
+msgid "Max number of bookings by user per event"
+msgstr ""
+
+#: settings/calendars.php:1776
+msgid "The max quantity of bookings by user in a single event / date."
+msgstr ""
+
+#: settings/calendars.php:1784
+msgid "Max number of upcoming dates"
+msgstr ""
+
+#: settings/calendars.php:1790
+msgid "The max number of upcoming dates on each event's date dropdown."
+msgstr ""
+
+#: settings/calendars.php:1798
+msgid "Email that will receive the user after booking"
+msgstr ""
+
+#: settings/calendars.php:1804
+msgid ""
+"Template of the email that will receive the user. Use the reserved tags to "
+"display dynamic data. (#USERNAME#, #USEREMAIL, #COMMENT#, #EVENT_DETAILS#, "
+"#SITE_NAME#"
+msgstr ""
+
+#: settings/calendars.php:1812
+msgid ""
+"Email that will receive the event author when a user purchases a booking"
+msgstr ""
+
+#: settings/calendars.php:1818
+msgid ""
+"Template of the email that will receive the event author. Use the reserved "
+"tags to display dynamic data. (#USERNAME#, #USEREMAIL, #COMMENT#, "
+"#EVENT_DETAILS#, #SITE_NAME#)"
+msgstr ""
+
+#: settings/calendars.php:1826
+msgid "Email that will receive the user as a reminder before the event"
+msgstr ""
+
+#: settings/calendars.php:1832
+msgid ""
+"Template of the email reminder that will receive the user before the event. "
+"Use the reserved tags to display dynamic data. (#USERNAME#, #USEREMAIL, "
+"#COMMENT#, #EVENT_DETAILS#, #SITE_NAME#"
+msgstr ""
+
+#: settings/calendars.php:1840
+msgid "Booked Event Color"
+msgstr ""
+
+#: settings/calendars.php:1847
+msgid "Set the booked event color."
+msgstr ""
+
+#: settings/calendars.php:1854
+msgid "Translations / Multi Language"
+msgstr ""
+
+#: settings/calendars.php:1861
+msgid "Enable Multi language / use .PO file"
+msgstr ""
+
+#: settings/calendars.php:1867
+msgid "Use PO files in the /languages/ folder to translate the plugin texts."
+msgstr ""
+
+#: settings/calendars.php:1869
+msgid ""
+"Notice: The Multi language feature requires the <a href=\"https://wpml.org/?"
+"aid=86607&affiliate_key=pCq9y9jsvJMt\" target=\"_blank\">\n"
+"Wordpress Multi Language plugin</a>."
+msgstr ""
+
+#: settings/calendars.php:2007
+msgid "View All Events"
+msgstr ""
+
+#: settings/calendars.php:2119
+msgid "Subscribe - Subtitle"
+msgstr ""
+
+#: settings/calendars.php:2161
+msgid "Fields Required"
+msgstr ""
+
+#: settings/calendars.php:2175
+msgid "Invalid Email"
+msgstr ""
+
+#: settings/calendars.php:2189
+msgid "New Subscriber - Thanks"
+msgstr ""
+
+#: settings/calendars.php:2203
+msgid "Sending"
+msgstr ""
+
+#: settings/calendars.php:2231 settings/custom_shortcodes.php:94
+msgid "Add Event"
+msgstr ""
+
+#: settings/calendars.php:2329
+msgid "Login to submit an event"
+msgstr ""
+
+#: settings/calendars.php:2343
+msgid "Thanks for submit an event"
+msgstr ""
+
+#: settings/calendars.php:2357
+msgid "Event Title"
+msgstr ""
+
+#: settings/calendars.php:2385
+msgid "Link"
+msgstr ""
+
+#: settings/calendars.php:2399
+msgid "Share"
+msgstr ""
+
+#: settings/calendars.php:2413
+msgid "Add Image"
+msgstr ""
+
+#: settings/calendars.php:2427
+msgid "Location"
+msgstr ""
+
+#: settings/calendars.php:2567
+msgid "Daily Frequency"
+msgstr ""
+
+#: settings/calendars.php:2581
+msgid "Weekly Frequency"
+msgstr ""
+
+#: settings/calendars.php:2595
+msgid "Monthly Frequency"
+msgstr ""
+
+#: settings/calendars.php:2609
+msgid "Yearly Frequency"
+msgstr ""
+
+#: settings/calendars.php:2651
+msgid "Search"
+msgstr ""
+
+#: settings/calendars.php:2665
+msgid "Results"
+msgstr ""
+
+#: settings/calendars.php:2735
+msgid "Event saved successfully."
+msgstr ""
+
+#: settings/calendars.php:2749
+msgid "Event removed successfully."
+msgstr ""
+
+#: settings/calendars.php:2763
+msgid "Select Date"
+msgstr ""
+
+#: settings/calendars.php:3099
+msgid "Sync iCal Feed"
+msgstr ""
+
+#: settings/calendars.php:3105
+msgid "Active Sync"
+msgstr ""
+
+#: settings/calendars.php:3111
+msgid "On/Off the iCal sync feature for this calendar."
+msgstr ""
+
+#: settings/calendars.php:3119
+msgid "iCal URL"
+msgstr ""
+
+#: settings/calendars.php:3125
+msgid "The events will be synced with this iCal Feed"
+msgstr ""
+
+#: settings/calendars.php:3133
+msgid "Sync Frequency"
+msgstr ""
+
+#: settings/calendars.php:3137
+msgid "Hourly"
+msgstr ""
+
+#: settings/calendars.php:3138
+msgid "Twice Daily"
+msgstr ""
+
+#: settings/calendars.php:3143
+msgid "Select the sync recurrence"
+msgstr ""
+
+#: settings/calendars.php:3151
+msgid "Cache"
+msgstr ""
+
+#: settings/calendars.php:3156
+msgid "Active Cache"
+msgstr ""
+
+#: settings/calendars.php:3162
+msgid ""
+"On/Off the cache feature for this calendar. The cache will be cleared every "
+"time you edit the calendar settings and when you add / edit an event."
+msgstr ""
+
+#: settings/calendars.php:3170
+msgid "Subscribers"
+msgstr ""
+
+#: settings/calendars.php:3179 settings/calendars.php:3205
+msgid "Subscription Date"
+msgstr ""
+
+#: settings/calendars.php:3197
+msgid "Are you sure that you want to remove this subscriber?"
+msgstr ""
+
+#: settings/calendars.php:3216
+msgid "Save"
+msgstr ""
+
+#: settings/custom_shortcodes.php:49
+msgid "Get a calendar custom shortcode."
+msgstr ""
+
+#: settings/custom_shortcodes.php:77
+msgid "Select a calendar"
+msgstr ""
+
+#: settings/custom_shortcodes.php:90
+msgid "Upcoming Events"
+msgstr ""
+
+#: settings/custom_shortcodes.php:91
+msgid "Past Events"
+msgstr ""
+
+#: settings/custom_shortcodes.php:92
+msgid "Accordion List"
+msgstr ""
+
+#: settings/custom_shortcodes.php:93
+msgid "Accordion Upcoming Events"
+msgstr ""
+
+#: settings/custom_shortcodes.php:95
+msgid "List Events by Author"
+msgstr ""
+
+#: settings/custom_shortcodes.php:96
+msgid "Calendar by Author"
+msgstr ""
+
+#: settings/custom_shortcodes.php:97
+msgid "List of Bookings by Logged in User"
+msgstr ""
+
+#: settings/custom_shortcodes.php:98
+msgid "Today Events"
+msgstr ""
+
+#: settings/custom_shortcodes.php:99
+msgid "Google Map Upcoming Events"
+msgstr ""
+
+#: settings/custom_shortcodes.php:100
+msgid "Grid Upcoming Events"
+msgstr ""
+
+#: settings/custom_shortcodes.php:104
+msgid "Select a layout type."
+msgstr ""
+
+#: settings/custom_shortcodes.php:130
+msgid "Select a category."
+msgstr ""
+
+#: settings/custom_shortcodes.php:138
+msgid "Event"
+msgstr ""
+
+#: settings/custom_shortcodes.php:142
+msgid "All Events..."
+msgstr ""
+
+#: settings/custom_shortcodes.php:156
+msgid "Select an event (optional)."
+msgstr ""
+
+#: settings/custom_shortcodes.php:164
+msgid "View"
+msgstr ""
+
+#: settings/custom_shortcodes.php:176
+msgid "Select the view."
+msgstr ""
+
+#: settings/custom_shortcodes.php:184
+msgid "Authors"
+msgstr ""
+
+#: settings/custom_shortcodes.php:197
+msgid "Select an author."
+msgstr ""
+
+#: settings/custom_shortcodes.php:216
+msgid "Select the number of columns."
+msgstr ""
+
+#: settings/custom_shortcodes.php:224
+msgid "Skin color"
+msgstr ""
+
+#: settings/custom_shortcodes.php:251
+msgid "Select the skin color for this layout."
+msgstr ""
+
+#: settings/custom_shortcodes.php:259
+msgid "From"
+msgstr ""
+
+#: settings/custom_shortcodes.php:268
+msgid "Select a date to start displaying the past events."
+msgstr ""
+
+#: settings/custom_shortcodes.php:276
+msgid "Limit"
+msgstr ""
+
+#: settings/custom_shortcodes.php:283
+msgid "Select a limit of posts to display."
+msgstr ""
+
+#: settings/custom_shortcodes.php:298
+msgid "Get Preview"
+msgstr ""
+
+#: settings/custom_shortcodes.php:345
+msgid ""
+"This shortcode should be implemented inside the author template of your "
+"theme."
+msgstr ""
+
+#: settings/events-meta.php:8
+msgid "Event Data"
+msgstr ""
+
+#: settings/events-meta.php:10
+msgid "Event Date Info"
+msgstr ""
+
+#: settings/events-meta.php:139
+msgid "Color (optional)"
+msgstr ""
+
+#: settings/events-meta.php:157
+msgid "Select a color. To create a new one, go to the <a href=\""
+msgstr ""
+
+#: settings/events-meta.php:162
+msgid "Introduce a URL"
+msgstr ""
+
+#: settings/events-meta.php:166
+msgid "Facebook Event URL (optional)"
+msgstr ""
+
+#: settings/events-meta.php:167
+msgid "Introduce a Facebook Page URL"
+msgstr ""
+
+#: settings/events-meta.php:171
+msgid "Share Text (optional)"
+msgstr ""
+
+#: settings/events-meta.php:172
+msgid ""
+"Introduce a text to be shared through social networks. i.e: \"Event 123 on "
+"14 May, 14:30.\""
+msgstr ""
+
+#: settings/events-meta.php:177
+msgid "Location to be displayed in the event list"
+msgstr ""
+
+#: settings/events-meta.php:182
+msgid "Introduce the Phone number"
+msgstr ""
+
+#: settings/events-meta.php:187
+msgid ""
+"Introduce the country, city, address of the event. i.e: Spain, Madrid, "
+"Street x"
+msgstr ""
+
+#: settings/events-meta.php:188
+msgid "Drag the marker to set a specific position (Lat, Lng)"
+msgstr ""
+
+#: settings/events-meta.php:195
+msgid "Rating (optional)"
+msgstr ""
+
+#: settings/events-meta.php:199
+msgid "1 Star"
+msgstr ""
+
+#: settings/events-meta.php:200
+msgid "1.5 Stars"
+msgstr ""
+
+#: settings/events-meta.php:201
+msgid "2 Stars"
+msgstr ""
+
+#: settings/events-meta.php:202
+msgid "2.5 Stars"
+msgstr ""
+
+#: settings/events-meta.php:203
+msgid "3 Stars"
+msgstr ""
+
+#: settings/events-meta.php:204
+msgid "3.5 Stars"
+msgstr ""
+
+#: settings/events-meta.php:205
+msgid "4 Stars"
+msgstr ""
+
+#: settings/events-meta.php:206
+msgid "4.5 Stars"
+msgstr ""
+
+#: settings/events-meta.php:207
+msgid "5 Stars"
+msgstr ""
+
+#: settings/events-meta.php:215
+msgid ""
+"Allow logged in users to rate events. (The manual rating will be disabled)"
+msgstr ""
+
+#: settings/events-meta.php:217
+msgid "The rating will be displayed in the event description."
+msgstr ""
+
+#: settings/events-meta.php:255
+msgid "Enable Booking"
+msgstr ""
+
+#: settings/events-meta.php:259
+msgid "Limit (optional)"
+msgstr ""
+
+#: settings/events-meta.php:261
+msgid "Introduce the maximum number of bookings allowed for this event."
+msgstr ""
+
+#: settings/events-meta.php:267 settings/events-meta.php:274
+msgid "Price (optional)"
+msgstr ""
+
+#: settings/events-meta.php:269
+msgid "Introduce the booking price. Integer numbers only."
+msgstr ""
+
+#: settings/events-meta.php:277
+msgid "Notice: This feature requires the <a href=\""
+msgstr ""
+
+#: settings/events-meta.php:279
+msgid "Introduce the booking price. Leave blank to allow bookings for free."
+msgstr ""
+
+#: settings/events-meta.php:284
+msgid "List of Bookings"
+msgstr ""
+
+#: settings/events-meta.php:287
+msgid "Export to Excel"
+msgstr ""
+
+#: settings/events-meta.php:373
+msgid "Load More"
+msgstr ""
+
+#: settings/events-meta.php:446
+msgid ""
+"Assign this event to one or more calendars. Select multiple calendars "
+"pressing \"ctrl\"."
+msgstr ""
+
+#: settings/events-meta.php:449 settings/events-meta.php:650
+msgid "Date"
+msgstr ""
+
+#: settings/events-meta.php:510
+msgid "Select a frequency"
+msgstr ""
+
+#: settings/events-meta.php:553
+msgid "Exceptions"
+msgstr ""
+
+#: settings/events-meta.php:554
+msgid ""
+"Add dates to exclude from the recurring event frequency. Format YYYY-MM-DD. "
+"i.e: 2014-12-24,2014-12-25,2014-12-31"
+msgstr ""
+
+#: settings/events-meta.php:566
+msgid "Select the end date. A frequency option must be selected."
+msgstr ""
+
+#: settings/events-meta.php:570
+msgid "Extra Dates"
+msgstr ""
+
+#: settings/events-meta.php:571
+msgid ""
+"Add extra dates to include in the calendar. Format YYYY-MM-DD. i.e: "
+"2014-12-24,2014-12-25,2014-12-31"
+msgstr ""
+
+#: settings/events-meta.php:653
+msgid "Bookings"
+msgstr ""
+
+#: settings/events-meta.php:791
+msgid "Show all calendars..."
+msgstr ""
+
+#: settings/settings.php:14
+msgid "Event Calendar"
+msgstr ""
+
+#: settings/settings.php:15
+msgid "Categories"
+msgstr ""
+
+#: settings/settings.php:19
+msgid "Settings"
+msgstr ""
+
+#: settings/settings.php:102
+msgid "User Roles:"
+msgstr ""
+
+#: settings/settings.php:124
+msgid "Select the user role that will manage the plugin."
+msgstr ""
+
+#: settings/settings.php:132
+msgid "Events Slug:"
+msgstr ""
+
+#: settings/settings.php:138
+msgid ""
+"Introduce the events URL slug. Be sure that there is not any other post type "
+"using it already. <br>(Default: pec-events)"
+msgstr ""
+
+#: settings/settings.php:146
+msgid "Redirect archive page:"
+msgstr ""
+
+#: settings/settings.php:152
+msgid ""
+"Introduce a custom url if you want to redirect the default archive page. ("
+msgstr ""
+
+#: settings/settings.php:160
+msgid "Email to send emails from:"
+msgstr ""
+
+#: settings/settings.php:174
+msgid "Custom CSS:"
+msgstr ""
+
+#: settings/settings.php:180
+msgid "Add your custom CSS code."
+msgstr ""
+
+#: settings/settings.php:188
+msgid "RTL (Right-to-left) Support"
+msgstr ""
+
+#: settings/settings.php:194
+msgid "Add RTL support for the calendars."
+msgstr ""
+
+#: settings/settings.php:202
+msgid "Exclude Google Maps JS file?"
+msgstr ""
+
+#: settings/settings.php:208
+msgid ""
+"Check this option if you have a conflict with other plugins related to the "
+"Google Maps feature."
+msgstr ""
+
+#: settings/settings.php:216
+msgid "Terms & Conditions Page"
+msgstr ""
+
+#: settings/settings.php:233
+msgid "Select the Terms & Conditions page for booking events"
+msgstr ""
+
+#: settings/settings.php:241
+msgid "Pagination:"
+msgstr ""
+
+#: settings/settings.php:247
+msgid "Set the number of items to display per page."
+msgstr ""
+
+#: settings/settings.php:255
+msgid "Google Maps Zoom:"
+msgstr ""
+
+#: settings/settings.php:261
+msgid "Set the Google Map Zoom number."
+msgstr ""
+
+#: settings/settings.php:267
+msgid "Facebook API Keys"
+msgstr ""
+
+#: settings/settings.php:270
+msgid "App ID:"
+msgstr ""
+
+#: settings/settings.php:284
+msgid "App Secret:"
+msgstr ""
+
+#: settings/settings.php:297
+msgid "Instructions to get the Facebook API keys"
+msgstr ""
+
+#: settings/settings.php:306
+msgid "ReCaptcha"
+msgstr ""
+
+#: settings/settings.php:310
+msgid "Enable ReCaptcha for frontend forms"
+msgstr ""
+
+#: settings/settings.php:316
+msgid ""
+"A captcha will be displayed in some of the frontend forms. Useful to block "
+"spam bots."
+msgstr ""
+
+#: settings/settings.php:324
+msgid "Site Key:"
+msgstr ""
+
+#: settings/settings.php:338
+msgid "Secret Key:"
+msgstr ""
+
+#: settings/settings.php:350
+msgid "Get the Keys adding your domain in the recaptcha site:"
+msgstr ""
+
+#: settings/settings.php:354
+msgid "Event Landing Page (beta)"
+msgstr ""
+
+#: settings/settings.php:358
+msgid "Enable Event Landing Page Template"
+msgstr ""
+
+#: settings/settings.php:364
+msgid "The events single pages will be displayed with a different theme."
+msgstr ""
+
+#: settings/settings.php:370
+msgid "Event Custom Fields (beta)"
+msgstr ""
+
+#: settings/settings.php:377 settings/settings.php:432
+msgid "Type"
+msgstr ""
+
+#: settings/settings.php:378 settings/settings.php:433
+msgid "Optional"
+msgstr ""
+
+#: settings/settings.php:379 settings/settings.php:434
+msgid "Placeholder"
+msgstr ""
+
+#: settings/settings.php:386 settings/settings.php:407
+msgid "Introduce a lower case id wihout spaces."
+msgstr ""
+
+#: settings/settings.php:387 settings/settings.php:408
+msgid "Name of the Field"
+msgstr ""
+
+#: settings/settings.php:390 settings/settings.php:411
+msgid "Text Field"
+msgstr ""
+
+#: settings/settings.php:391 settings/settings.php:412
+msgid "Checkbox"
+msgstr ""
+
+#: settings/settings.php:395 settings/settings.php:416
+msgid "Text to display in the form"
+msgstr ""
+
+#: settings/settings.php:450
+msgid "Save Changes"
+msgstr ""
+
+#: settings/special.php:85
+msgid ""
+"Add special dates to use in the calendars. Such as holidays, company events, "
+"personal events, etc... Assign them to calendars and events."
+msgstr ""
+
+#: settings/special.php:105 settings/special.php:135 settings/special.php:162
+#: settings/special.php:194
+msgid "Color"
+msgstr ""
+
+#: settings/special.php:112 settings/special.php:142
+msgid "Submit"
+msgstr ""
+
+#: settings/special.php:154 settings/special.php:202
+msgid "Add new special date"
+msgstr ""
+
+#: templates/default/template.php:158
+msgid "Upcoming Dates"
+msgstr ""
+
+#: templates/default/template.php:283
+msgid "No Upcoming Dates For This Event."
+msgstr ""
+
+#: templates/default/template.php:299
+msgid "Return to "
+msgstr ""

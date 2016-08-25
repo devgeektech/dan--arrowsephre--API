@@ -1,0 +1,1 @@
+<div class="stride-success">Registration Successful.</div>
